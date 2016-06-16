@@ -1,0 +1,27 @@
+{
+    "name": "diversen/get-browser-language",
+    "type": "library",
+    "description": "Single method that gets a browsers language, using Zend_Locale",
+    "license": "MIT",
+    "homepage": "http://github.com/diversen/get-browser-language",
+    "keywords": ["http", "language", "browser"],
+    "authors": [
+        {
+            "name": "Dennis Iversen",
+            "email": "dennis.iversen@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "diversen\\": ""
+        }
+    },
+    "require": {
+        "zf1/zend-locale": "^1.12"
+    }
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}

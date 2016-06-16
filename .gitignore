@@ -1,0 +1,4 @@
+vendor/
+composer-master.json
+composer-master.lock
+composer.lock
