@@ -18,7 +18,7 @@
     },
     "require": {
         "zf1/zend-locale": "^1.12"
-    }
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
